@@ -1,17 +1,8 @@
-_This code is a supplementary material to the paper "TLIO: Tight Learned Inertial Odometry". To use the code here requires the user to generate its own dataset and retrain. For more information about the paper and the video materials, please refer to our [website](https://cathias.github.io/TLIO/)._
+This code is a supplementary material to the paper "TLIO: Tight Learned Inertial Odometry".
 
+To use the code here requires the user to generate its own dataset and retrain.
 
-# Installation
-All dependencies can be installed using conda via
-```shell script
-conda env create -f environment.yaml
-```
-Then the virtual environment is accessible with:
-```shell script
-conda activate tlio
-```
-
-Next commands should be run from this environment.
+For more information about the paper and the video materials, please refer to our [website](https://cathias.github.io/TLIO/).
 
 # Dataset
 A dataset is needed in numpy format to run with this code. 
